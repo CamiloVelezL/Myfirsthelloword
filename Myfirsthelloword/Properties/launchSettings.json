@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Myfirsthelloword": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
